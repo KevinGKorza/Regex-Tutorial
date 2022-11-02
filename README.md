@@ -23,4 +23,4 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 
 GithubGist:
-https://gist.github.com/KevinGKorza/44908d89b8bc3f965477569227c0662e
+https://gist.github.com/KevinGKorza/6ba67c5be6647f9500b6f867123b6d8d
