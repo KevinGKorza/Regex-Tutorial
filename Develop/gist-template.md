@@ -45,7 +45,7 @@ Quantifiers are greedy by default, which means that they try to match as many da
 
 In the Hex Value (/^#?([a-f0-9]{6}|[a-f0-9]{3})$/), the "{6}", and "{3}" are examples of Quantifiers
     -The "{6}" indicates that the previous array "[a-f0-9]" needs to have 6 characters 
-    -The "{3}" indicates that the previous array "[a-f0-9]" needs to hace 3 characters
+    -The "{3}" indicates that the previous array "[a-f0-9]" needs to have 3 characters
 
 ### OR Operator
 OR Operators or "or" can be best described as seperators between groups of data. The seperation allows Regex to not only search for but also match however many groups are present.
