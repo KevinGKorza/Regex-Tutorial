@@ -60,15 +60,16 @@ In the Hex Value `(/^#?([a-f0-9]{6}|[a-f0-9]{3})$/)`, "`a-f0-9`" and "`a-f0-9`" 
 ### Flags
 Flags are located at the end of a Regex data and they not only define additional functionality, but also limits for the Regex. They are found after the second slash in the dataset.
 
-There are 6 flags that can be used in Regex `(g, i, m, u, s, y)`
-`g - Global`
-`i - Ignore Casing`
-`m - Multiline`
-`u - Unicode`
-`s - DotAll`
-`y - Sticky `
+There are 6 flags that can be used in Regex 
+`(g, i, m, u, s, y)`
 
-In the Hex Value `(/^#?([a-f0-9]{6}|[a-f0-9]{3})$/)`, there is no Flag because there is nothing after the second slash in the Regex data.
+1. `g - Global`
+2. `i - Ignore Casing`
+3. `m - Multiline`
+4. `u - Unicode`
+5. `s - DotAll`
+6. `y - Sticky `
+
 
 ### Grouping and Capturing
 Grouping or Group in Regex is any information found inside the parentheses. Capturing a group in Regex is a way to treat multiple characters as one single unit.
